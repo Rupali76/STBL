@@ -80,5 +80,10 @@ p{
     background-color: dodgerblue;
     
 }
-
+#name{
+    
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: 'Cinzel Decorative',cursive;
+}
 
